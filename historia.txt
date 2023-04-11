@@ -2,4 +2,4 @@ Hola, mi nombre es Andres
 
 Estoy estudiando Platzi, especificamente, Python
 
-Hoy hablaremos de su vida
+Hoy hablaremos de su vida y obra maestra
