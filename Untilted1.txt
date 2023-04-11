@@ -1,3 +1,0 @@
-Hola, mi nombre es Andres
-
-Estoy estudiando Platzi, especificamente, Python
